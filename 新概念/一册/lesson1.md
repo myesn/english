@@ -44,13 +44,13 @@ Excuse me.
 
 ### 常见的主格和宾格
 
-主格 | 宾格 | 中文
-- | - | -
-I | me | 我
-you | you | 你
-she | her | 她
-he | him | 他
-it | it | 它
+| 主格 | 宾格 | 中文 |
+| - | - | - |
+| I | me | 我 |
+| you | you | 你 |
+| she | her | 她 |
+| he | him | 他 |
+| it | it | 它 |
 
 ### 举例
 
@@ -78,10 +78,15 @@ is 是 be 的一种表现形式。
 be —— is, am, are
 
 搭配：
+
 I am
+
 You are
+
 She is
+
 He is
+
 It is
 
 ## 5. this
