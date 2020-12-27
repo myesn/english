@@ -1,5 +1,7 @@
-### 课程介绍
+# 课程介绍
 
-新概念第一册
+本文件夹是《新概念英语》（New Concept English） 一册 的学习笔记
 
-主路线：[视频地址](https://www.youtube.com/playlist?list=PLK6q4vrvWZiPA2xoAE_YugAJeBUiYo6Bh)
+# 学习教材
+
+[新东方 霍娜 的 nce one 视频集](https://www.youtube.com/playlist?list=PLK6q4vrvWZiPA2xoAE_YugAJeBUiYo6Bh)
