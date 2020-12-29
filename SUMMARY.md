@@ -3,7 +3,7 @@
 ## 谢孟媛
 
 * [KK音标](谢孟媛/KK音标/README.md)
-  * [Unit 1](谢孟媛/KK音标/unit1.adoc)
+  * [Unit 1](谢孟媛/KK音标/unit1.md)
 
 ## New Concept English
 
