@@ -1,6 +1,6 @@
 # 课程介绍
 
-本文件夹是《新概念英语》（New Concept English） 一册 的学习笔记
+本文件夹是《新概念英语》（New Concept English） 一册的学习笔记
 
 # 学习教材
 
